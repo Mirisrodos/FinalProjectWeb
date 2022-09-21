@@ -706,7 +706,7 @@ header .song_side .popular_artists .item::-webkit-scrollbar {
 header .song_side .popular_artists .item li {
     list-style-type: none;
     position: relative;
-    width: 60px;
+    min-width: 60px;
     height: 60px;
     border-radius: 50%;
     margin-right: 20px;
